@@ -1,1 +1,1 @@
-![img_1.png](img_1.png)
+![idea的一些配置](img.png)
