@@ -1,0 +1,1 @@
+![idea的一些配置](picture/img.png)
